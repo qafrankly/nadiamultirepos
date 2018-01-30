@@ -5,8 +5,8 @@ class MultiDemo111 extends Component {
   render(){
 	  
     return (
-      <div className='FranklyModulesDemo'>
-	      <h2 className='demo_text'>t1: {this.props.text}</h2>
+      <div className='FranklyDemo'>
+	      <h2 className='demoo_text'>t1: {this.props.text}</h2>
       </div>
     );
 	  
